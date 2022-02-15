@@ -1,0 +1,3 @@
+[submodule "sampn_origin"]
+	path = sampn_origin
+	url = https://github.com/tbwxmu/SAMPN.git
